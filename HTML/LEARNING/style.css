@@ -1,0 +1,30 @@
+h1{
+    color:rgb(0, 216, 133);
+    font-family: cursive;
+}
+/* button
+{
+    color:#e2fcef;
+    background-color: #9b287b;
+} */
+body
+{
+    background-color:rgb(240, 244, 187);
+    color :rgb(3, 4, 58);
+}
+#BOX1
+{
+    color:red;
+    background-color: blue;
+}
+.heading
+{
+    color: red;
+}
+#stylesheet_button
+{
+    background-color: green;
+}
+header
+{
+}
