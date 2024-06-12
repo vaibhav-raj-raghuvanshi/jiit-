@@ -1,12 +1,5 @@
-*{
-    background-color: #F9DEC9;
-    color:black;
-}
-h1{
-    color:rgb(0, 216, 133);
-    font-family:cursive;
-}
-footer
-{
-    text-align:center ;
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: .75rem;
 }
