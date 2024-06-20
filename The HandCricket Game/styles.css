@@ -1,0 +1,20 @@
+body
+{
+    /* background-image: url("handcricket-images/morning3.jpeg");
+    background-size: cover; */
+    background-color: aquamarine;
+}
+#left-img,#right-img,#run-div,td,th,#table-div,#left-Player,#right-Player
+{
+    text-align: center;
+}
+img
+{
+    width: 20vw;
+    height: 20vw;
+    border: 1px black solid;
+    border-radius: 50%;
+}
+tr{
+    border:1px black solid;
+}
